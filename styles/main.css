@@ -1,0 +1,35 @@
+article{
+    background-color: aqua;
+}
+
+#image{
+    display: flex;
+    flex: wrap;
+    justify-content: center;
+}
+
+
+.name{
+    font-size: xx-large;
+    font-style: italic;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#districtInfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#politicalAffiliation{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.committees{
+    display: flex;
+    flex: wrap;
+    justify-content: flex-end;
+}
